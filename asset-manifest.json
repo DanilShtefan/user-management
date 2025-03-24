@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/user-management-app/static/css/main.f855e6bc.css",
-    "main.js": "/user-management-app/static/js/main.0fa5bba9.js",
-    "static/js/453.3ef3df13.chunk.js": "/user-management-app/static/js/453.3ef3df13.chunk.js",
-    "static/media/logo.svg": "/user-management-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/user-management-app/static/css/main.80a6712c.css",
+    "main.js": "/user-management-app/static/js/main.6be7b32b.js",
     "index.html": "/user-management-app/index.html",
-    "main.f855e6bc.css.map": "/user-management-app/static/css/main.f855e6bc.css.map",
-    "main.0fa5bba9.js.map": "/user-management-app/static/js/main.0fa5bba9.js.map",
-    "453.3ef3df13.chunk.js.map": "/user-management-app/static/js/453.3ef3df13.chunk.js.map"
+    "main.80a6712c.css.map": "/user-management-app/static/css/main.80a6712c.css.map",
+    "main.6be7b32b.js.map": "/user-management-app/static/js/main.6be7b32b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.0fa5bba9.js"
+    "static/css/main.80a6712c.css",
+    "static/js/main.6be7b32b.js"
   ]
 }
