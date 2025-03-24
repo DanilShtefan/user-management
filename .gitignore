@@ -1,0 +1,27 @@
+
+#### `.gitignore`
+
+```plaintext
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build directory
+build/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db

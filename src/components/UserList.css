@@ -1,0 +1,40 @@
+.user-list-container {
+    width: 300px;
+    margin-right: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow-y: auto;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-item {
+    height: 40px; 
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    position: relative;
+  }
+  
+  .user-item::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background-color: #ddd;
+    pointer-events: none; 
+  }
+  
+  .user-item:last-child::after {
+    display: none;
+  }
+  
+  .user-item:hover {
+    background-color: #f0f0f0;
+    z-index: 1; 
+  }
